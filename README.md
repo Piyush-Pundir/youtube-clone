@@ -14,7 +14,7 @@ A responsive YouTube homepage clone built using HTML and CSS.
 - CSS3
 
 ## Live Demo
-https://piyush-pundir.github.io/youtube-clone-html-css/
+https://piyush-pundir.github.io/youtube-clone/
 
 ## Author
 Piyush Pundir
